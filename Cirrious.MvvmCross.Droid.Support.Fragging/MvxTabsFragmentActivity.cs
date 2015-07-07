@@ -10,12 +10,12 @@ using System.Collections.Generic;
 using System.Linq;
 using Android.Content;
 using Android.OS;
+using Android.Runtime;
 using Android.Support.V4.App;
 using Android.Views;
 using Android.Widget;
 using Cirrious.CrossCore.Core;
 using Cirrious.MvvmCross.ViewModels;
-using Android.Runtime;
 
 namespace Cirrious.MvvmCross.Droid.Support.Fragging
 {

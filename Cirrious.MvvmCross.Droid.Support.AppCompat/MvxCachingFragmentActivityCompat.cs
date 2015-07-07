@@ -15,9 +15,9 @@ using Android.Support.V7.Widget;
 using Android.Util;
 using Android.Views;
 using Cirrious.MvvmCross.Droid.Support.Fragging;
-using Java.Lang;
 using Cirrious.MvvmCross.Droid.Views;
 using Cirrious.MvvmCross.ViewModels;
+using Java.Lang;
 
 namespace Cirrious.MvvmCross.Droid.Support.AppCompat
 {

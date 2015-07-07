@@ -6,19 +6,19 @@
 // Project Lead - Stuart Lodge, @slodge, me@slodge.com
 
 using Android.Content;
+using Android.Content.Res;
+using Android.Graphics;
+using Android.OS;
+using Android.Support.V7.App;
+using Android.Support.V7.Widget;
+using Android.Util;
+using Android.Views;
 using Cirrious.MvvmCross.Binding.BindingContext;
 using Cirrious.MvvmCross.Binding.Droid.BindingContext;
+using Cirrious.MvvmCross.Droid.Support.AppCompat;
 using Cirrious.MvvmCross.Droid.Views;
 using Cirrious.MvvmCross.ViewModels;
-using Android.Support.V7.App;
-using Android.OS;
-using Android.Views;
 using Java.Lang;
-using Android.Graphics;
-using Android.Content.Res;
-using Android.Util;
-using Cirrious.MvvmCross.Droid.Support.AppCompat;
-using Android.Support.V7.Widget;
 
 namespace Cirrious.MvvmCross.Droid.Support.Fragging
 {

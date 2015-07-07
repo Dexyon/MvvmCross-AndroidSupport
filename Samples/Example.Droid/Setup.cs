@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System.Reflection;
 using Android.Content;
 using Cirrious.CrossCore;
 using Cirrious.CrossCore.Platform;
@@ -5,8 +7,6 @@ using Cirrious.MvvmCross.Droid.Platform;
 using Cirrious.MvvmCross.Droid.Support.Fragging.Presenter;
 using Cirrious.MvvmCross.Droid.Views;
 using Cirrious.MvvmCross.ViewModels;
-using System.Collections.Generic;
-using System.Reflection;
 
 namespace Example.Droid
 {
